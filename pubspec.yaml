@@ -1,0 +1,35 @@
+name: nutrieat
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.2
+  image_picker: ^1.1.2
+  firebase_storage: ^12.3.2
+  firebase_core: ^3.0.0
+  cloud_firestore: ^5.0.0 
+  firebase_auth: ^5.0.0
+  google_maps_flutter: ^2.5.3
+  crypto: ^3.0.3
+  geolocator: ^10.1.0
+  http: ^1.2.0
+
+  cupertino_icons: ^1.0.8
+  firebase_database: ^11.3.10
+  intl: ^0.20.2
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
