@@ -20,7 +20,7 @@ class _RestaurantMapPageState extends State<RestaurantMapPage> {
   double _currentRadius = 1500; // Default 1.5km
   String _selectedFilter = 'Healthy'; 
   final TextEditingController _searchController = TextEditingController();
-  final String googleApiKey = "AIzaSyDoCtZEpgeBzgVAdELayldApJhW5wLpguM";
+  final String googleApiKey = "-----------------------------------------";
 
   // ADDED: 'Halal' to the filter list
   final List<String> _filters = ['Healthy', 'Halal', 'Vegan', 'Vegetarian', 'Keto', 'Salad'];
