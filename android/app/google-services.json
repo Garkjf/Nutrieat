@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "1006239033323",
-    "firebase_url": "https://nutrieat-9c7e9-default-rtdb.europe-west1.firebasedatabase.app",
-    "project_id": "nutrieat-9c7e9",
-    "storage_bucket": "nutrieat-9c7e9.firebasestorage.app"
+    "project_number": "----------------",
+    "firebase_url": "--------------------------------------------------------------",
+    "project_id": "---------------------",
+    "storage_bucket": "--------------------------------------"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1006239033323:android:ab5d0ece3faafef8acdbae",
+        "mobilesdk_app_id": "-----------------------------------------------------------",
         "android_client_info": {
           "package_name": "com.example.nutrieat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1006239033323-bv462g51lheg97juolohismltsadfpps.apps.googleusercontent.com",
+          "client_id": "-----------------------------------------------------------------------",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.nutrieat",
-            "certificate_hash": "903a2344fb2635193cad42715b4cb452b51958bd"
+            "certificate_hash": "-------------------------------------------------"
           }
         },
         {
-          "client_id": "1006239033323-kui1v0mh46n1f339sesg85oeiceqr8r0.apps.googleusercontent.com",
+          "client_id": "---------------------------------------------------------",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDKr1YVkIsy6fW5crWDrKjaTfzugWJqiSk"
+          "current_key": "-----------------------------------------------------"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1006239033323-kui1v0mh46n1f339sesg85oeiceqr8r0.apps.googleusercontent.com",
+              "client_id": "---------------------------------------",
               "client_type": 3
             }
           ]
